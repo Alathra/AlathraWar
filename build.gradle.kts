@@ -86,7 +86,7 @@ dependencies {
     }
     compileOnly("me.neznamy:tab-api:4.0.2")
     compileOnly(files("lib/Graves-4.9.jar"))
-    compileOnly("com.github.Gecolay.GSit:core:1.9.0")
+    compileOnly("com.github.Gecolay.GSit:core:1.9.5")
     compileOnly(files("lib/HeadsPlus-7.0.14.jar"))
     compileOnly(files("lib/Skulls.jar"))
 
